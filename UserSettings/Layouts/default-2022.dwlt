@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 128
+  controlID: 17
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -672,9 +672,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.49986067, y: 0.7870433, z: 1.3771238}
+    m_Target: {x: 0, y: -0.023566872, z: 0.090596214}
     speed: 2
-    m_Value: {x: 315.80444, y: 358.68347, z: -690.5454}
+    m_Value: {x: 0.49986067, y: 0.7870433, z: 1.3771238}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -722,11 +722,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: -0.02967278, y: 0.030295853, z: 0.0008657567, w: 0.9991001}
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 0.38845724
+    m_Target: 0.8660254
     speed: 2
-    m_Value: 0.8660254
+    m_Value: 0.38845724
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1148,14 +1148,14 @@ MonoBehaviour:
   m_LastFolders:
   - Packages/com.unity.xr.arfoundation/Runtime/ARFoundation
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: E:\Gits\AR_face_track_2
+  m_LastProjectPath: E:\Gits\AR_face_track_3
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 306}
-    m_SelectedIDs: 78ac0000
-    m_LastClickedID: 44152
-    m_ExpandedIDs: 000000001ca400001ea4000020a4000022a4000024a4000026a4000028a400002aa400002ca400002ea4000030a4000032a4000034a4000036a4000038a400003aa400003ca400003ea4000040a4000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 130}
+    m_SelectedIDs: 1ca90000
+    m_LastClickedID: 43292
+    m_ExpandedIDs: 00000000dea50000e0a50000e2a50000e4a50000e6a50000e8a50000eaa50000eca50000eea50000f0a50000f2a50000f4a50000f6a50000f8a5000010a9000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1183,7 +1183,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001ca400001ea4000020a4000022a4000024a4000026a4000028a400002aa400002ca400002ea4000030a4000032a4000034a4000036a4000038a400003aa400003ca400003ea4000040a40000
+    m_ExpandedIDs: 00000000dea50000e0a50000e2a50000e4a50000e6a50000e8a50000eaa50000eca50000eea50000f0a50000f2a50000f4a50000f6a50000f8a50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1408,9 +1408,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9c790000
-      m_LastClickedID: 31132
-      m_ExpandedIDs: 00fbffff
+      m_SelectedIDs: d28b0000
+      m_LastClickedID: 35794
+      m_ExpandedIDs: 42e5ffffe4890000368a00003e8a0000a28a0000f08a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
